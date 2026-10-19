@@ -1,0 +1,6 @@
+# Clases compiladas
+bin/
+*.class
+
+# Archivos del sistema
+.DS_Store

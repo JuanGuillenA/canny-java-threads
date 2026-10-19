@@ -1,0 +1,5 @@
+version,hilos,promedio_ms,aceleracion,eficiencia,igual_al_secuencial,repeticiones_ms
+Secuencial,1,1817.107,1.000,1.000,si,1823.01;1814.63;1811.44;1819.15;1817.31
+Paralela,2,936.705,1.940,0.970,si,933.12;932.75;942.21;936.08;939.36
+Paralela,4,561.463,3.236,0.809,si,558.39;556.02;561.85;552.00;579.06
+Paralela,8,483.824,3.756,0.469,si,480.86;487.03;484.65;484.89;481.68
